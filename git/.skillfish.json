@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "git",
+  "owner": "oriolrius",
+  "repo": "nifi-cluster",
+  "path": ".claude/skills/git",
+  "branch": "main",
+  "sha": "cea8a103a0aeb918258ea7c032a3e1db2565c7b0",
+  "source": "manual"
+}
